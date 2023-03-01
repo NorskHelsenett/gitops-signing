@@ -9,7 +9,7 @@ spec:
     server: 'https://kubernetes.default.svc'
   source:
     path: apps/
-    repoURL: 'http://github.com/norskhelsenett/gitops-signing'
+    repoURL: 'https://github.com/NorskHelsenett/gitops-signing'
     targetRevision: init
     directory:
       recurse: true
