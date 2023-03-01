@@ -27,7 +27,7 @@ spec:
             database:
               DB_TYPE: sqlite3
           admin:
-            username: admin
+            username: gitea
             password: "r8sA8CPHD9"
         memcached:
           enabled: false
